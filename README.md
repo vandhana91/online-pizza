@@ -24,7 +24,4 @@ This is a Full stack Pizza Delivery Web App .
 
 Mongo DB , React js , Express js , Node js, Redux, Axios , Chakra UI , Ant Design
 
-## Give it a try and have fun-
-
-https://pizza-delivery-app-e1273.web.app/
 
